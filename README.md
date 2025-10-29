@@ -3,15 +3,20 @@
 </p>
 
 <!-- Title Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=60&pause=1000&color=%23ffb6c1&center=true&vCenter=true&width=800&height=100&lines=✨+SPIRIT+HOOK+💫" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=60&pause=1000&color=%23ffb6c1&center=true&vCenter=true&width=800&height=100&lines=✨+SPIRIT+HOOK+💫" alt="Typing SVG" />
+  </a>
+</p>
 
+---
 <!-- Multi-line Typing Animation -->
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=90&pause=1000&color=%23ffb6c1&center=true&vCenter=true&width=2000&height=200&lines=SPIRIT+HOOK+💫;DEVOPS+⚙️;OPEN+SOURCE+🌍;CODING+💻;FULL+STACK+Development+🚀;AI+%26+ML+🧠" alt="Typing SVG" />
+  </a>
 </p>
 
 <h3 align="center">
