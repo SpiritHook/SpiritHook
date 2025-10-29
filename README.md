@@ -3,7 +3,7 @@
 </p>
 
 <!-- Title Typing Animation -->
-<p align="center">
+[<p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=✨+SPIRIT+HOOK+💫;Full-stack+web+and+app+developer;AI+%26+DevOps+Engineer;Always+learning+new+things&font=Fira%20Code&center=true&vCenter=true&width=800&height=60&color=f75c7e&pause=1000&size=28" />
@@ -17,7 +17,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=90&pause=1000&color=%23ffb6c1&center=true&vCenter=true&width=2000&height=200&lines=SPIRIT+HOOK+💫;DEVOPS+⚙️;OPEN+SOURCE+🌍;CODING+💻;FULL+STACK+Development+🚀;AI+%26+ML+🧠" alt="Typing SVG" />
   </a>
-</p>
+</p>](https://meet.google.com/zio-zwst-mqk)
 
 <h3 align="center">
   A Passionate Full-Stack & AI Engineer 
