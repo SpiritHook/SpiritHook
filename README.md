@@ -4,19 +4,17 @@
 
 <!-- Title Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=60&pause=1000&color=ffb6c1&center=true&vCenter=true&width=800&height=100&lines=✨+SPIRIT+HOOK+💫" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=60&pause=1000&color=%23ffb6c1&center=true&vCenter=true&width=800&height=100&lines=✨+SPIRIT+HOOK+💫" alt="Typing SVG" />
 </h1>
 
 <!-- Multi-line Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=90&pause=1000&color=ffb6c1&center=true&vCenter=true&width=2000&height=200&lines=SPIRIT+HOOK+💫;DEVOPS+⚙️;OPEN+SOURCE+🌍;CODING+💻;FULL+STACK+Development+🚀;AI+%26+ML+🧠" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=90&pause=1000&color=%23ffb6c1&center=true&vCenter=true&width=2000&height=200&lines=SPIRIT+HOOK+💫;DEVOPS+⚙️;OPEN+SOURCE+🌍;CODING+💻;FULL+STACK+Development+🚀;AI+%26+ML+🧠" alt="Typing SVG" />
 </p>
 
-<h3 align="center" style="color:#ffb6c1;">
+<h3 align="center">
   A Passionate Full-Stack & AI Engineer 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25"/> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25" />
 </h3>
 
 ---
