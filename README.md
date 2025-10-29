@@ -5,9 +5,9 @@
 <!-- Title Typing Animation -->
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=60&pause=1000&color=%23ffb6c1&center=true&vCenter=true&width=800&height=100&lines=✨+SPIRIT+HOOK+💫" alt="Typing SVG" />
-  </a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=✨+SPIRIT+HOOK+💫;Full-stack+web+and+app+developer;AI+%26+DevOps+Engineer;Always+learning+new+things&font=Fira%20Code&center=true&vCenter=true&width=800&height=60&color=f75c7e&pause=1000&size=28" />
+</a>
 </p>
 
 ---
