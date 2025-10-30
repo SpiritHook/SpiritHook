@@ -1,5 +1,5 @@
 
-<h2>Activity Graph</h2>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">Activity Graph</h2>
 
 ![Spirit Hook's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SpiritHook&custom_title=SpiritHook's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=ffb6c1&line=ffb6c1&point=ffb6c1&area_color=ffdfe6&title_color=ffb6c1&area=true)
 
