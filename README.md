@@ -1,4 +1,4 @@
-Check out the full styled page [here](https://SpiritHook.github.io/SpiritHook/).
+![My Image](./index.html)
 
 <!-- Title Typing Animation -->
 <p align="center">
