@@ -1,4 +1,11 @@
-![My Image](./index.html)
+
+<h1 align="center">MasterHead</h1>
+
+<p align="center">
+  <img src="./moto-styled.png" alt="MasterHead" width="800"/>
+</p>
+
+Check out the live page [here](https://github.com/SpiritHooK/SpiritHooK/)
 
 <!-- Title Typing Animation -->
 <p align="center">
