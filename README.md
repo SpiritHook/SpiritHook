@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="./moto.gif" alt="MasterHead" width="800" style="border-radius: 15px; box-shadow: 0 0 30px #ffb6c1;"/>
-</p>
+
+<h2>Activity Graph</h2>
+
+![Spirit Hook's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SpiritHook&custom_title=SpiritHook's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=ffb6c1&line=ffb6c1&point=ffb6c1&area_color=ffdfe6&title_color=ffb6c1&area=true)
 
 <!-- Title Typing Animation -->
 <p align="center">
@@ -143,6 +144,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/SpiritHook?style=flat&logo=github&color=ffb6c1&labelColor=ffb6c1)
 ![Profile Views](https://komarev.com/ghpvc/?username=SpiritHook&style=flat&labelColor=ffb6c1&color=ffb6c1)
 
-
+<p align="center">
+  <img src="./moto.gif" alt="MasterHead" width="800" style="border-radius: 15px; box-shadow: 0 0 30px #ffb6c1;"/>
+</p>
 
 ---
