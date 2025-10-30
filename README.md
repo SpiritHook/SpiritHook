@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./moto.gif" alt="MasterHead" width="800" style="border-radius: 15px; box-shadow: 0 0 30px #ffb6c1;"/>
-</p>
+Check out the full styled page [here](https://SpiritHook.github.io/SpiritHook/).
 
 <!-- Title Typing Animation -->
 <p align="center">
