@@ -113,7 +113,7 @@
 
 <!-- Licenses & Certifications -->
 </br>
-<h2>Licenses & Certifications</h2>
+<h2><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="30"> Licenses & Certifications</h2>
 
 <div align="center" style="background-color:#0d1017; border-radius:15px; padding:20px; border: 2px solid #ffb6c1; width:80%; margin:auto;">
   <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
