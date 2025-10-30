@@ -16,7 +16,7 @@
 
 ---
 
-<h2><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="40"> About Me </h2>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="40"> <b>About Me </b>
 
 - 🔭 Currently building **scalable AI-driven full-stack systems**  
 - 💬 Ask me about **Microservices, LLMs, Cloud Architecture, and DevOps pipelines**  
