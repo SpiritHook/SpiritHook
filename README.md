@@ -16,7 +16,7 @@
 
 ---
 
-<h2 align="center"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="40"> About Me </h2>
+<h2><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="40"> About Me </h2>
 
 - 🔭 Currently building **scalable AI-driven full-stack systems**  
 - 💬 Ask me about **Microservices, LLMs, Cloud Architecture, and DevOps pipelines**  
@@ -24,7 +24,7 @@
 - 🌱 Learning **Kubernetes, gRPC, and distributed event streaming**  
 
 </br>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40"> <h2>Tech Stack</h2>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40"> Tech Stack</h2>
 
 <div>
   <p style="display: inline-block;">
@@ -121,7 +121,7 @@
 </div>
 <!-- GitHub Stats -->
 </br>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> <h2>GitHub Stats</h2>
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Stats</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; padding: 20px 0;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SpiritHook&show_icons=true&hide_border=true&title_color=ffb6c1&text_color=ffb6c1&icon_color=ffb6c1&bg_color=0d1017" />
