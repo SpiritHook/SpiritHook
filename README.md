@@ -1,8 +1,7 @@
 
 <h2>Activity Graph</h2>
 
-![Spirit Hook's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SpiritHook&custom_title=SpiritHook's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=ffb6c1&point=ffb6c1&area_color=ffdfe6&title_color=ffb6c1&area=true)
-
+![Spirit Hook's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SpiritHook&custom_title=SpiritHook's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=ffb6c1&line=ffb6c1&point=ffb6c1&area_color=ffdfe6&title_color=ffb6c1&area=true)
 
 ![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-ffb6c1)
 ![Static Badge](https://img.shields.io/badge/Star%20%E2%AD%90%20some%20repositories%20you%20find%20helpful!%20-ffb6c1)
