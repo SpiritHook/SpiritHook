@@ -120,7 +120,7 @@
   </p>
 </div>
 <!-- GitHub Stats -->
-
+</br>
 <h2>GitHub Stats</h2>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; padding: 20px 0;">
