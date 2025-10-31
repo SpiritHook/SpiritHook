@@ -133,9 +133,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpiritHook&layout=compact&hide_border=true&title_color=ffb6c1&text_color=ffb6c1&bg_color=0d1017" />
 </div>
 
-<div align="center" style="padding-bottom: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpiritHook&hide_border=true&background=0d1017&ring=ffb6c1&fire=ffb6c1&currStreakLabel=ffb6c1&sideNums=ffb6c1&currStreakNum=ffb6c1&sideLabels=ffb6c1&dates=ffb6c1" alt="streak"/>
-</div>
 
 <!-- Activity Graph -->
 
